@@ -96,6 +96,8 @@ int main() {
     
     testMokinys();
     testKlase();
+
+    std::cout << "============================\n";
     
     std::cout << "\nAll Tests Passed Successfully!\n";
     std::cout << "============================\n";
